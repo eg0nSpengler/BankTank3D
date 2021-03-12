@@ -2,7 +2,6 @@
 
 A clone of iD's "Hovertank 3D" made in [Unreal 4](https://www.unrealengine.com/en-US/).
 
-A personal project by Anthony Brown 
 
 # Info
 
